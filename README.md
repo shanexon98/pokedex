@@ -53,7 +53,7 @@ Aunque es una aplicación cliente sin credenciales ni escritura en servidor, se 
 - CORS/Web: consumo de PokeAPI compatible con navegadores modernos.
 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-22 at 00 54 08" src="https://github.com/user-attachments/assets/a33995b5-eadc-4784-8148-589e0d936aff" />
+<img width="800" height="1500" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-22 at 00 54 08" src="https://github.com/user-attachments/assets/a33995b5-eadc-4784-8148-589e0d936aff" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-22 at 00 54 05" src="https://github.com/user-attachments/assets/24f96039-bf03-40b7-b225-6fa3a1303fda" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-22 at 00 53 55" src="https://github.com/user-attachments/assets/373ed024-4ae5-468c-8cc4-095245c4134c" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-22 at 00 53 45" src="https://github.com/user-attachments/assets/22c1d5c5-03f7-4849-b858-702aefb16972" />
