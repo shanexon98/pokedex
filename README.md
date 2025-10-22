@@ -2,6 +2,10 @@
 
 Aplicación Flutter que consume la API pública de PokeAPI para listar, filtrar y ver el detalle de Pokémon.
 
+URL de visualización del app
+
+https://youtube.com/shorts/itpSjgRD8p4?feature=share
+
 ## Tecnologías utilizadas
 - Flutter 
 - Riverpod (gestión de estado, providers)
